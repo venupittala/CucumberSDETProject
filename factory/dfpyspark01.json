@@ -1,0 +1,9 @@
+{
+	"name": "dfpyspark01",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "114ac94f-85f7-4877-8f66-ba8ff55e7e2c",
+		"tenantId": "db05faca-c82a-4b9d-b9c5-0f64b6755421"
+	}
+}
