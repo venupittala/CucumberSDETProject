@@ -1,0 +1,6 @@
+{
+	"name": "selfhosted-pyspark-IR",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
