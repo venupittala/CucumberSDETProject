@@ -1,0 +1,9 @@
+{
+	"name": "venudatafactorydatabricks",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ec3b268a-1107-4bc7-89ad-14f074f6faaf",
+		"tenantId": "bfddaf00-d7a1-4683-9190-bc24cd6d02b5"
+	}
+}
